@@ -59,7 +59,7 @@ Ao jogar, o estudante é levado a pensar sobre:
 
 ## Link do Projeto
 
-[👉 Clique aqui para acessar o jogo publicado](COLE_AQUI_O_LINK_DO_GITHUB_PAGES)
+[👉 Clique aqui para acessar o jogo publicado](https://github.com/miguelrossi2025/Coletando-alimentos---Agrinho-2025.git)
 
 ---
 
