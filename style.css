@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: #e0f2f1;
+  font-family: 'Arial', sans-serif;
+}
+
+#game-container {
+  position: relative;
+  border: 5px solid #4caf50; /* borda verde para remeter à natureza */
+  padding: 10px;
+  box-sizing: content-box;
+  background: #a5d6a7; /* verde claro para a área do jogo */
+  width: 620px; /* canvas width + padding + borda */
+}
+
+#game-message {
+  position: absolute;
+  top: -40px; /* acima da borda */
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  color: #2e7d32;
+  font-size: 18px;
+  font-style: italic;
+}
