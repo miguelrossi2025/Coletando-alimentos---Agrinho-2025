@@ -64,11 +64,8 @@ Ao jogar, o estudante é levado a pensar sobre:
 ---
 
 ## Autor
-**Nome:** SEU NOME COMPLETO  
-**Série:** 1ª série do Ensino Médio  
-**Professor orientador:** NOME DO PROFESSOR  
-**Escola:** NOME DA ESCOLA  
-**NRE:** Goioerê
+**PROJETO AUTORAL** 
+
 
 ---
 
